@@ -63,8 +63,7 @@ header h1 {
 
 .grey-vert {
   background: #eee;
-  padding: 10px 0.75px;
-  margin-left: 15px;
+  padding: 10px 0.5px;
 }
 
 #navbar ul li .uncurrent:hover {
@@ -89,7 +88,7 @@ header h1 {
   background: #fff;
 }
 
-#about-section h1 {
+#about-section h2 {
   font-family: "Georgia", Times, Times New Roman, serif;
   color: #4aaaa5;
   margin-bottom: 20px;
